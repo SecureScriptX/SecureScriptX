@@ -25,7 +25,7 @@
 👨‍💻 **Blog Posts:**
 
 - [How to get into Cybersecurity Starting From Zero](#)
-- [A Day in the Life of a Cybersecurity Analyst](#)
+- [Unmasking the World of Threat Hunting](https://medium.com/@stewart.rj.b/fa06b964120f)
 - [How to Create a KeyLogger](#)
 - [Ransomware Demonstration](#)
 
