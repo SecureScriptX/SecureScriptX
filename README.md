@@ -1,4 +1,4 @@
-# Ryan Stewart - Threat Intelligence Analyst
+# Ryan Stewart - Security Information Technology Professional
 
 👋 Hello, I'm Ryan Stewart, a dedicated Threat Intelligence Analyst with a passion for enhancing digital security.
 
