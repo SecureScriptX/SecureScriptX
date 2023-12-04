@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Ryan Stewart, a dedicated Threat Intelligence Analyst with a passion for enhancing digital security.
 
-👨‍💻 **Cybersecurity/Data Science Projects:**
+👨‍💻 **Showcasing Cybersecurity and Data Science Projects:**
 
 - **Data Structures and Algorithms Practice (AlgoExpert)**
   - Practicing DS & Algos in Python
