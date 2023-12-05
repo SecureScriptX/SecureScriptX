@@ -1,6 +1,6 @@
 # Ryan Stewart - InfoSec Professional
 
-👋 Hello, I'm Ryan Stewart, a dedicated Threat Intelligence Analyst with a passion for enhancing digital security.
+👋 Hello, I'm Ryan Stewart, a dedicated Threat Intelligence Analyst and Researcher with a passion for enhancing digital security.
 
 👨‍💻 **Showcasing Cybersecurity and Data Science Projects:**
 
@@ -28,10 +28,13 @@
 - [Unmasking the World of Threat Hunting](https://medium.com/@stewart.rj.b/fa06b964120f)
 - [How to Create a KeyLogger](#)
 - [Ransomware Demonstration](#)
+- [Unveiling the Hack of Phishing Emails](https://medium.com/@stewart.rj.b/unveiling-the-hack-of-phishing-emails-b28335c33e92)
 
 🤝 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
+- [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
+- [Medium](https://medium.com/@stewart.rj.b)
+  
 
-🌐 **Cool Fact:** Did you know that I once simulated a cyber attack on VM system to understand firsthand how vulnerabilities can be exploited? Learning by doing is key in the world of cybersecurity!
+🌐 **Cool Fact:** Did you know that I once simulated a cyber attack on Rasberry Pi to understand firsthand how vulnerabilities can be exploited? Learning by doing is key in the world of cybersecurity.
 
 Looking forward to connecting with like-minded professionals and enthusiasts!
