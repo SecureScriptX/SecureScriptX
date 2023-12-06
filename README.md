@@ -1,4 +1,4 @@
-# Ryan Stewart - InfoSec Professional
+# Ryan Stewart - InfoSec
 
 👋 Hello, I'm Ryan, a Threat Intelligence Analyst and Researcher with a passion for enhancing the digital security scope.
 
