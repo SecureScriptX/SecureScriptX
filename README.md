@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Ryan, a Threat Intelligence Analyst and Researcher with a passion for enhancing the digital security scope.
 
-🥷🏼 **Showcasing InfoSec Projects:**
+🥷🏼 **Showcasing Research Projects:**
 
 - **Application Analysis**
   - Common areas of exploitation
