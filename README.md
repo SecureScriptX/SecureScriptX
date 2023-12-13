@@ -32,7 +32,7 @@
 - [Configure Basic Wireless Security](https://medium.com/@stewart.rj.b/configure-basic-wireless-security-e49fd694ce54)
 - [Unmasking the World of Threat Hunting](https://medium.com/@stewart.rj.b/fa06b964120f)
 - [How to Create a KeyLogger](#)
-- [Ransomware Demonstration](#)
+- [Securing Access: A Dive into HTTP Basic Authentication CTF](https://medium.com/@stewart.rj.b/securing-access-a-dive-into-http-basic-authentication-ctf-bbebf6b7281b)
 - [Unveiling the Hack of Phishing Emails](https://medium.com/@stewart.rj.b/unveiling-the-hack-of-phishing-emails-b28335c33e92)
 
 🤝 **Connect with me:**
