@@ -4,7 +4,7 @@
 
 🥷🏼 **Showcasing Research Projects:**
 
-- **Application Analysis**
+- **Web Application Analysis (OSWAP)**
   - Common areas of exploitation
   - Payloads
   - Anti-Analysis behaviors & techniques 
@@ -20,6 +20,7 @@
   - Profiling People for Social Engineering
   - Distribution and Stealth
   - Vulnerability Automation
+  - Investigate Web Intrusion #Blue Team
 
 - **Python for Ethical Hacking**
   - Package Delivery Application (Datastructures and Algorithms Demo)
