@@ -1,4 +1,4 @@
-# Ryan Stewart - InfoSec
+# Ryan Stewart -InfoSec Researcher | Threat Intelligence Analyst 
 
 👋 Hello, I'm Ryan, a Threat Intelligence Analyst and Researcher with a passion for enhancing the digital security scope.
 
@@ -27,11 +27,11 @@
   - Ransomware Proof of Concept (Decrypter)
   - Keylogger with Email Capability
 
-👨‍💻 **Blog Posts:**
+👨‍💻 **Recent Blog Posts:**
 
 - [Configure Basic Wireless Security](https://medium.com/@stewart.rj.b/configure-basic-wireless-security-e49fd694ce54)
 - [Unmasking the World of Threat Hunting](https://medium.com/@stewart.rj.b/fa06b964120f)
-- [How to Create a KeyLogger](#)
+- [Cracking the Code: Understanding Web Attack Exploits](https://medium.com/@stewart.rj.b/cracking-the-code-understanding-web-attacks-exploits-88e04dd3fee2)
 - [Securing Access: A Dive into HTTP Basic Authentication CTF](https://medium.com/@stewart.rj.b/securing-access-a-dive-into-http-basic-authentication-ctf-bbebf6b7281b)
 - [Unveiling the Hack of Phishing Emails](https://medium.com/@stewart.rj.b/unveiling-the-hack-of-phishing-emails-b28335c33e92)
 
