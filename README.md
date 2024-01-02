@@ -9,12 +9,12 @@
   - Payloads
   - Anti-Analysis behaviors & techniques 
 
-- **HTML & CSS (React, NodeJS, Azure, and Machine Learning Components)**
+- **SOC Automation (Splunk, Wazuh, Shuffle, and Machine Learning Components)**
   - Image Analysis Middleware
   - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
   - JWipe (Disk Wiping Utility)
   - Active Directory Bulk User Creation
-  - FIM (File Integrity Monitor)
+  - SOC Automation Home Lab
 
 - **Recon Concepts (Acquisitions and Domains, Subdomain Enumeration, Vulnerability Analysis)**
   - Profiling People for Social Engineering
