@@ -1,4 +1,4 @@
-# Ryan Stewart -InfoSec Researcher | Threat Intelligence Analyst 
+# Ryan Stewart - InfoSec Researcher | Threat Intelligence Analyst 
 
 👋 Hello, I'm Ryan, a Threat Intelligence Analyst and Researcher with a passion for enhancing the digital security scope.
 
@@ -40,7 +40,4 @@
 - [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
 - [Medium](https://medium.com/@stewart.rj.b)
   
-
-🔵 **Cool Fact:** Did you know that I once simulated a cyber attack on Rasberry Pi to understand firsthand how vulnerabilities can be exploited? Learning by doing is key in the world of cybersecurity.
-
-Looking forward to connecting with like-minded professionals and enthusiasts!
+🔵 Looking forward to connecting with like-minded professionals and enthusiasts!
