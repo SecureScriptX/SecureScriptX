@@ -1,8 +1,8 @@
-# Ryan Stewart - InfoSec Researcher | Threat Intelligence Analyst 
+# Ryan Stewart - InfoSec Researcher | Threat Intelligence Analyst | Developer
 
-👋 Hello, I'm Ryan, a Threat Intelligence Analyst and Researcher with a passion for enhancing the digital security scope.
+👋 Hey, I'm Ryan. Excited to delve into Swift iOS, building the tools I need for my journey toward becoming a skilled iOS developer.
 
-🥷🏼 **Showcasing Research Projects:**
+**Showcasing Swift Projects:**
 
 - **Web Application Analysis (OSWAP)**
   - Common areas of exploitation
