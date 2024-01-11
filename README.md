@@ -1,26 +1,32 @@
-# Ryan Stewart - InfoSec Researcher | Threat Intelligence Analyst | Developer
+# Ryan_InfoSec - DFIR | Threat Intel Analyst | Researcher
 
-👋 Hey, I'm Ryan, a tech enthusiast on a quest to master the skills and tools needed to navigate this domain with proficiency and expertise.
+👋 Hey there! I'm Ryan, a tech enthusiast on a fun quest to master the skills and tools needed to navigate the web domain with a big smile and plenty of know-how. 😊
 
-**Highlighting InfoSec Research Projects:**
+**Showcasing InfoSec Research Projects:**
 
 - **Web Application Analysis (OSWAP)**
   - Common areas of exploitation
   - Payloads
   - Anti-Analysis behaviors & techniques 
 
-- **SOC Automation (Splunk, Wazuh, Shuffle, and Machine Learning Components)**
+- **SOC Automation (Splunk, Wazuh, Shuffle, and AI/ML Components)**
   - Image Analysis Middleware
   - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
   - JWipe (Disk Wiping Utility)
   - Active Directory Bulk User Creation
   - SOC Automation Home Lab
+ 
+- **Malware Analysis (MITRE ATT&CK Framework, Dynamic Analysis, Vulnerability research)**
+  - Malicious Document Analysis
+  - Malware Analysis Lab
+  - What is the DarkGate malware?
 
-- **Recon Concepts (Acquisitions and Domains, Subdomain Enumeration, Vulnerability Analysis)**
+- **Recon Concepts (Acquisitions and Domains, Subdomain Enumeration, Vulnerabilitys)**
   - Profiling People for Social Engineering
   - Distribution and Stealth
   - Vulnerability Automation
   - Investigate Web Intrusion #Blue Team
+  - What is the DarkGate malware?
 
 - **Python for Ethical Hacking**
   - Package Delivery Application (Datastructures and Algorithms Demo)
@@ -39,5 +45,6 @@
 🤝 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
 - [Medium](https://medium.com/@stewart.rj.b)
+- [Twitter](https://twitter.com/RyanJr19786)
   
 🔵 Looking forward to connecting with like-minded professionals and enthusiasts!
