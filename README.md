@@ -1,4 +1,4 @@
-# Ryan_InfoSec - DFIR | Threat Intel Analyst | Researcher
+# Ryan_InfoSec - DFIR | Threat Intelligence | Researcher
 
 👋 Hey there! I'm Ryan, a tech enthusiast on a fun quest to master the skills and tools needed to navigate the web domain with a big smile and plenty of know-how. 😊
 
@@ -45,6 +45,6 @@
 🤝 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
 - [Medium](https://medium.com/@stewart.rj.b)
-- [Twitter](https://twitter.com/RyanJr19786)
+- [Twitter](https://twitter.com/I_Heart_DFIR)
   
 🔵 Looking forward to connecting with like-minded professionals and enthusiasts!
