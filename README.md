@@ -1,37 +1,35 @@
 # Ryan_InfoSec - DFIR | Threat Intelligence | Researcher
 
-👋 Hey there! I'm Ryan, a tech enthusiast on a fun quest to master the skills and tools needed to navigate the web domain with a big smile and plenty of know-how. 😊
+👋 Greetings, I am Ryan, a tech Jedi embarking on a mission to master the skills and tools required to traverse the vast galaxy of the web. May the force be with you! 🌌🧙‍♂️✨
 
-**Showcasing InfoSec Research Projects:**
+**My Portfolio of Projects:**
 
 - **Web Application Analysis (OSWAP)**
   - Common areas of exploitation
   - Payloads
-  - Anti-Analysis behaviors & techniques 
+  - Anti-Analysis behaviors & techniques
 
-- **SOC Automation (Splunk, Wazuh, Shuffle, and AI/ML Components)**
-  - Image Analysis Middleware
-  - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
-  - JWipe (Disk Wiping Utility)
-  - Active Directory Bulk User Creation
+- **SOC Automation and Fundamentals (Splunk, Wazuh, Shuffle, and TheHive Components)**
+  - Incident Management 101
+  - SIEM 101
+  - Splunk
   - SOC Automation Home Lab
  
 - **Malware Analysis (MITRE ATT&CK Framework, Dynamic Analysis, Vulnerability research)**
-  - Malicious Document Analysis
+  - Dynamic Maware Analysis
   - Malware Analysis Lab
   - What is the DarkGate malware?
+  - Malware Analysis Fundamentals
+  - Malicious Document Analysis
 
 - **Recon Concepts (Acquisitions and Domains, Subdomain Enumeration, Vulnerabilitys)**
   - Profiling People for Social Engineering
   - Distribution and Stealth
   - Vulnerability Automation
-  - Investigate Web Intrusion #Blue Team
-  - What is the DarkGate malware?
 
-- **Python for Ethical Hacking**
+- **Honeypot Implementation**
   - Package Delivery Application (Datastructures and Algorithms Demo)
   - Ransomware Proof of Concept (Encrypter)
-  - Ransomware Proof of Concept (Decrypter)
   - Keylogger with Email Capability
 
 👨‍💻 **Recent Blog Posts:**
