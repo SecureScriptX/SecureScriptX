@@ -1,15 +1,16 @@
 # Ryan_InfoSec - DFIR | Threat Intelligence | Researcher
 
-👋 Greetings, I am Ryan, a tech Jedi embarking on a mission to master the skills and tools required to traverse the vast galaxy of the web. May the force be with you! 🌌🧙‍♂️✨
+👋 Greetings, I am a Jedi embarking on a mission to master the skills and tools required to traverse the galaxy of the vast world wide web. 🌌
 
-**My Portfolio of Projects:**
+**My primary areas of focus as an analyst/researcher include:**
 
 - **Web Application Analysis (OSWAP)**
-  - Common areas of exploitation
-  - Payloads
+  - Evolution of the Most Critical Security Risks in Web Applications
+  - juice_shop
   - Anti-Analysis behaviors & techniques
+  - Zap
 
-- **SOC Automation and Fundamentals (Splunk, Wazuh, Shuffle, and TheHive Components)**
+- **SOC Automation (Splunk, Wazuh, Shuffle, and TheHive Components)**
   - Incident Management 101
   - SIEM 101
   - Splunk
@@ -21,20 +22,15 @@
   - What is the DarkGate malware?
   - Malware Analysis Fundamentals
   - Malicious Document Analysis
+  - Diamond Model of Intrusion Analysis  
 
 - **Recon Concepts (Acquisitions and Domains, Subdomain Enumeration, Vulnerabilitys)**
   - Profiling People for Social Engineering
   - Distribution and Stealth
   - Vulnerability Automation
 
-- **Honeypot Implementation**
-  - Package Delivery Application (Datastructures and Algorithms Demo)
-  - Ransomware Proof of Concept (Encrypter)
-  - Keylogger with Email Capability
-
 👨‍💻 **Recent Blog Posts:**
 
-- [Configure Basic Wireless Security](https://medium.com/@stewart.rj.b/configure-basic-wireless-security-e49fd694ce54)
 - [Unmasking the World of Threat Hunting](https://medium.com/@stewart.rj.b/fa06b964120f)
 - [Cracking the Code: Understanding Web Attack Exploits](https://medium.com/@stewart.rj.b/cracking-the-code-understanding-web-attacks-exploits-88e04dd3fee2)
 - [Securing Access: A Dive into HTTP Basic Authentication CTF](https://medium.com/@stewart.rj.b/securing-access-a-dive-into-http-basic-authentication-ctf-bbebf6b7281b)
@@ -45,4 +41,5 @@
 - [Medium](https://medium.com/@stewart.rj.b)
 - [Twitter](https://twitter.com/I_Heart_DFIR)
   
-🔵 Looking forward to connecting with like-minded professionals and enthusiasts!
+🔵 May the force be with you!🧙‍♂️✨
+
