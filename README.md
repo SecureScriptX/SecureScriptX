@@ -6,32 +6,43 @@ I thrive on the exhilaration of unraveling challenges in CTFs and embarking on p
 
 I'm here to make the online world a better and safer place for everyone. My mission involves always learning, sharing what I know with others, and encouraging everyone to do the same.
 
-**My primary areas of focus as an analyst/researcher include:**
+**My primary areas of focus as an Analsyt include:**
 
-- **Web Application Analysis (OSWAP)**
-  - Evolution of the Most Critical Security Risks in Web Applications
-  - juice_shop
-  - Anti-Analysis behaviors & techniques
-  - Zap
+- **Ethical Hacking in Web**
+  - Social Engineering
+  - SQL Injection
+  - Session Hijacking
+  - Denial of Service
 
-- **SOC Automation (Splunk, Wazuh, Shuffle, and TheHive Components)**
-  - Incident Management 101
-  - SIEM 101
-  - Splunk
-  - SOC Automation Home Lab
+- **Forensic Imaging**
+  - Digital Forensics Overiew 
+  - Storage Media Overivew 
+  - Forensic Image Formats
+  - Planning and Preparation
  
-- **Malware Analysis (MITRE ATT&CK Framework, Dynamic Analysis, Vulnerability research)**
-  - Dynamic Maware Analysis
+- **Malware Analysis (Digital Forensics)**
+  - Basic Analysis
   - Malware Analysis Lab
-  - What is the DarkGate malware?
-  - Malware Analysis Fundamentals
-  - Malicious Document Analysis
-  - Diamond Model of Intrusion Analysis  
+  - Malware Functionality 
+  - Anti-Reverse Engineering
+  - Static Analysis
+  - Dynamic Analysis
 
-- **Recon Concepts (Acquisitions and Domains, Subdomain Enumeration, Vulnerabilitys)**
-  - Profiling People for Social Engineering
-  - Distribution and Stealth
-  - Vulnerability Automation
+- **Penetration Testing**
+  - Programming
+  - OSINT (Reconnaissance, Finding vulnerabilities, Capturing Traffic)
+  - Findinging Vulnerabilties 
+  - Using Wireshark
+  - Exploitation 
+  - Password Management 
+ 
+- **Modern Cryptology**
+  - Encryption
+  - Cryptographic Security
+  - TLS
+  - Quantum and Post-Quantum
+  - Hard Problems
+  - Authenticated Encryption 
 
 👨‍💻 **Recent Blog Posts:**
 
