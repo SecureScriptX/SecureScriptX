@@ -1,6 +1,10 @@
-# Ryan_InfoSec - DFIR | Threat Intelligence | Researcher
+# DFIR | Threat Intelligence | Researcher
 
 👋 Greetings, I am a Jedi embarking on a mission to master the skills and tools required to traverse the galaxy of the vast world wide web. 🌌
+
+I thrive on the exhilaration of unraveling challenges in CTFs and embarking on projects that tackle real-world challenges. Adding a touch of excitement to my routine, I venture into cryptocurrency and silver stacking.
+
+I'm here to make the online world a better and safer place for everyone. My mission involves always learning, sharing what I know with others, and encouraging everyone to do the same.
 
 **My primary areas of focus as an analyst/researcher include:**
 
