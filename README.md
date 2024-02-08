@@ -56,5 +56,5 @@ I'm here to make the online world a better and safer place for everyone. My miss
 - [Medium](https://medium.com/@stewart.rj.b)
 - [Twitter](https://twitter.com/I_Heart_DFIR)
   
-🔵 May the force be with you!🧙‍♂️✨
+🔵 May the force be with you! 🧙‍♂️✨
 
