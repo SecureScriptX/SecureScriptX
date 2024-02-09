@@ -1,12 +1,12 @@
-# DFIR | Threat Intelligence | Researcher | Back-End Engineer
+# Digital Forensics | Threat Intelligence | Researcher | Back-End Engineer
 
 👋 Greetings, I am a Jedi embarking on a mission to master the skills and tools required to traverse the galaxy of the vast world wide web. 🌌
 
-I thrive on the exhilaration of unraveling challenges in CTFs and embarking on projects that tackle real-world cybersecurity challenges. Adding a touch of excitement to my routine, I venture into cryptocurrency and silver stacking.
+I thrive on the exhilaration of unraveling challenges in CTFs and embarking on projects that tackle real-world security challenges. Adding a touch of excitement to my routine, I venture into cryptocurrency and silver stacking.
 
 I'm here to make the online world a better and safer place for everyone. My mission involves always learning, sharing what I know with others, and encouraging everyone to do the same.
 
-**My primary areas of focus as an analsyt include:**
+**My primary areas of focus includes:**
 
 - **Ethical Hacking in Web**
   - Social Engineering
@@ -42,7 +42,13 @@ I'm here to make the online world a better and safer place for everyone. My miss
   - TLS
   - Quantum and Post-Quantum
   - Hard Problems
-  - Authenticated Encryption 
+  - Authenticated Encryption
+ 
+- **Back-end Engineering**
+  - Build and deploy Node/Express back-ends
+  - Implement security practices to prevent attacks on software applications
+  - Explain common software scaling and caching techniques
+  - Write client-side and server-side JavaScript code
 
 👨‍💻 **Recent Blog Posts:**
 
