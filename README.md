@@ -1,4 +1,4 @@
-# Cybersecurity | Researcher | Developer
+# CYSA+ | Researcher | Developer
 
 👋 Greetings, I am a Jedi embarking on a mission to master the skills and tools required to traverse the galaxy of the vast world wide web. 🌌
 
