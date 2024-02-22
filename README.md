@@ -1,4 +1,4 @@
-# CYSA+ | Researcher | Developer
+#  CTI l CYSA+ l Digital Forensics l Malware Research 
 
 👋 Greetings, I am a Cyber Jedi embarking on my mission to mastering the unique skills and tools required to traverse the galaxy of the vast world wide web. 🌌
 
