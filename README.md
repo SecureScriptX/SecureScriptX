@@ -1,6 +1,6 @@
 # CYSA+ | Researcher | Developer
 
-👋 Greetings, I am a Jedi embarking on a mission to master the skills and tools required to traverse the galaxy of the vast world wide web. 🌌
+👋 Greetings, I am a Cyber Jedi embarking on my mission to mastering the unique skills and tools required to traverse the galaxy of the vast world wide web. 🌌
 
 I thrive on the exhilaration of unraveling challenges in CTFs and embarking on projects that tackle real-world security challenges. Adding a touch of excitement to my routine, I venture into cryptocurrency and silver stacking.
 
@@ -63,4 +63,3 @@ I'm here to make the online world a better and safer place for everyone. My miss
 - [Twitter](https://twitter.com/I_Heart_DFIR)
   
 🔵 May the force be with you! 🧙‍♂️✨
-
