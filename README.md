@@ -10,11 +10,12 @@ A results-driven technology professional with a fervent passion for delivering t
   - Session Hijacking
   - Denial of Service
 
-- **Forensic Imaging**
-  - Digital Forensics Overiew 
-  - Storage Media Overivew 
-  - Forensic Image Formats
-  - Planning and Preparation
+- **Data Analytics**
+  - Machine Learning
+  - Data visualization
+  - Statistical Analysis
+  - Data forecasting (Using R & Python)
+  - Predictive Modeling
  
 - **Geospatial Intelligence (GEOINT)**
   - Imagery Analysis
@@ -22,7 +23,6 @@ A results-driven technology professional with a fervent passion for delivering t
   - ArcMap
   - Remote Sensing
   - Data visualization
-  - Machine learning
   - AR|VR|MR|XR
 
 - **Penetration Testing**
@@ -43,4 +43,3 @@ A results-driven technology professional with a fervent passion for delivering t
 - [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
 - [Medium](https://medium.com/@stewart.rj.b)
 - [Twitter](https://twitter.com/secure6criptx)
-  
