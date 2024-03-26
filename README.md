@@ -1,10 +1,6 @@
-#  CTI l CySA+ l Digital Forensics l Malware Research 
+# ArcGIS Pro | CTI | CySA+ | GEOINT 
 
-👋 Greetings, I am embarking on my mission to mastering the unique skills and tools required to traverse the galaxy of the vast world wide web. 🌌
-
-I thrive on the exhilaration of unraveling challenges in CTFs and embarking on projects that tackle real-world security challenges. Adding a touch of excitement to my routine, I venture into cryptocurrency, hackathons, CTF's and travel.
-
-I'm here to make the online world a better and safer place for everyone. My mission involves always learning, sharing what I know with others, and encouraging everyone to do the same.
+A results-driven technology professional with a fervent passion for delivering tangible solutions and outcomes. I have refined my abilities to navigate the complexities of the vast digital environment, with a specific focus on cyber defense, GIS data analysis, data visualization, and computer programming. I'm here to make the online world a better and safer place for everyone. My mission involves always learning, sharing what I know with others, and encouraging everyone to do the same.
 
 **My primary areas of focus includes:**
 
