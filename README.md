@@ -16,35 +16,21 @@ A results-driven technology professional with a fervent passion for delivering t
   - Forensic Image Formats
   - Planning and Preparation
  
-- **Malware Analysis (Digital Forensics)**
-  - Basic Analysis
-  - Malware Analysis Lab
-  - Malware Functionality 
-  - Anti-Reverse Engineering
-  - Static Analysis
-  - Dynamic Analysis
+- **Geospatial Intelligence (GEOINT)**
+  - Imagery Analysis
+  - Mapping Software
+  - ArcMap
+  - Remote Sensing
+  - Data visualization
+  - Machine learning
+  - AR|VR|MR|XR
 
 - **Penetration Testing**
-  - Programming
+  - Programming (Python, SQL, Java)
   - OSINT (Reconnaissance, Finding vulnerabilities, Capturing Traffic)
   - Findinging Vulnerabilties 
-  - Using Wireshark
   - Exploitation 
-  - Password Management 
- 
-- **Modern Cryptology**
-  - Encryption
-  - Cryptographic Security
-  - TLS
-  - Quantum and Post-Quantum
-  - Hard Problems
-  - Authenticated Encryption
- 
-- **Back-end Engineering**
-  - Build and deploy Node/Express back-ends
-  - Implement security practices to prevent attacks on software applications
-  - Explain common software scaling and caching techniques
-  - Write client-side and server-side JavaScript code
+
 
 👨‍💻 **Recent Blog Posts:**
 
@@ -56,6 +42,5 @@ A results-driven technology professional with a fervent passion for delivering t
 🤝 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/ryan-stewart-clt21)
 - [Medium](https://medium.com/@stewart.rj.b)
-- [Twitter](https://twitter.com/I_Heart_DFIR)
+- [Twitter](https://twitter.com/secure6criptx)
   
-May the force be with you! 🧙‍♂️✨
